@@ -2,6 +2,12 @@
 
 A professional web application that uses Llama Vision (via OpenRouter) to analyze images of math problems and provide detailed step-by-step solutions.
 
+## Demo
+
+![AI Math Solver Demo](demo.gif)
+
+*Upload a math problem image and get instant step-by-step solutions powered by AI*
+
 ## Features
 
 - **Drag & Drop Interface**: Modern, professional UI with drag-and-drop functionality
@@ -147,6 +153,7 @@ You can modify the AI prompt in `server.js` to:
 - OpenRouter charges per token used
 - Llama 3.2 90B Vision is approximately $0.50-$1.00 per image analysis
 - Consider implementing usage limits for production
+- The cost for the action in the attached GIF was around 0.009 USD
 
 ## Next Steps
 
@@ -162,3 +169,4 @@ Potential enhancements:
 ## License
 
 MIT License - feel free to modify and distribute!
+

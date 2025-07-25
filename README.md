@@ -151,8 +151,6 @@ You can modify the AI prompt in `server.js` to:
 ## Cost Considerations
 
 - OpenRouter charges per token used
-- Llama 3.2 90B Vision is approximately $0.50-$1.00 per image analysis
-- Consider implementing usage limits for production
 - The cost for the action in the attached GIF was around 0.009 USD
 
 ## Next Steps
